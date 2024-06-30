@@ -1,7 +1,4 @@
 # Chatbot-for-accounting
-.
-- The document loader and text splitter settings can be adjusted as needed.
-- The chatbot UI is built using Streamlit, making it easy to extend or modify.# Chatbot-for-accounting
 
 ## Presenting to you, *AI Chatbot based on RAG*!
 
